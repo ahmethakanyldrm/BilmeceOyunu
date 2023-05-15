@@ -1,4 +1,4 @@
-# BilmeceOyunu
+# Kod Hesaplayıcı
 Yazılım Mühendisliği Güncel Konular Dersi Projesi
 
 ## Genel Bilgi
